@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021933701191",
+    "firebase_url": "https://chat-friends-e3dcd.firebaseio.com",
+    "project_id": "chat-friends-e3dcd",
+    "storage_bucket": "chat-friends-e3dcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021933701191:android:92934e45ad17a3ab2cc962",
+        "android_client_info": {
+          "package_name": "com.flutterapi.chat_friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021933701191-b5grijisv9chhtu2m6jpoe16bf5h6hfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterapi.chat_friends",
+            "certificate_hash": "f9259b6ca4c2f9f7a20a8a826c9dc74bf3a6aad0"
+          }
+        },
+        {
+          "client_id": "1021933701191-780a4v8mtlsm5kf94llkbmp3eeca08ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZiCFwNAOk4xw0f6i-SdIuGWmtziu_huE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021933701191-780a4v8mtlsm5kf94llkbmp3eeca08ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
